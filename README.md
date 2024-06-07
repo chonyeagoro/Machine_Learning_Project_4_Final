@@ -9,5 +9,10 @@ This dataset provides a detailed look at Market trends over five years (2019-202
 3. To develop and evaluate machine learning models for predicting prices of Apple and Tesla stocks using technical indicators such as moving averages.
 4. To identify the optimal number of clusters using the Elbow method in order to plot individual graphs of price vs volume.
 
+## Challenges
+- Trying to decide what visualizations that would best represent our data and findings.
+- Trying to implement everything we have learnt especially with Machine Learning since it’s a very detailed and complex branch of Artificial Intelligence (AI).
+
+
 ## Sources
 https://www.kaggle.com/datasets/saketk511/2019-2024-us-stock-market-data
